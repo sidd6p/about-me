@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my Page"
 ---
-
+Hi, I am Siddhartha...
+I love to do competative programming, learn about behaviour economics, planting and talk about well-being
 I'm glad you are here. I plan to talk about ...
