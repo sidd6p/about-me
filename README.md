@@ -11,3 +11,6 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+[![Siddhartha](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](README.md)
